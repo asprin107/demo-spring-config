@@ -1,0 +1,7 @@
+db:
+  url: database-host-url-for-payment-development-v1.1.4
+redis:
+  url: redis-url-develop-v1.1.4
+some:
+  other:
+    config: sample-config-payment-v1.1.4

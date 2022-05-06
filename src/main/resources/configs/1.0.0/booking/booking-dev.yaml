@@ -1,0 +1,7 @@
+db:
+  url: database-host-url-for-booking-development-v1.0.0
+redis:
+  url: redis-url-develop-v1.0.0
+some:
+  other:
+    config: sample-config-booking-v1.0.0
